@@ -10,7 +10,7 @@ function showSuccess() {
     UserFeedback('feedbackElement', 'This is a success message', 'succes');
 }
 
-// ErrorDisplay function (as provided in your previous code)
+
 function ErrorDisplay(type, message) {
     if (type === 'alert') {
         alert(message);
@@ -23,7 +23,7 @@ function ErrorDisplay(type, message) {
     }
 }
 
-// UserFeedback function (as provided in your previous code)
+
 function UserFeedback(domElementId, message, type) {
     const element = document.getElementById(domElementId);
 
