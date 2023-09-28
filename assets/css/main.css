@@ -1,0 +1,20 @@
+.fejl {
+    color: #ff0000;
+    font-weight: bold;
+}
+
+.advarsel {
+    color: #ff9900;
+}
+
+.succes {
+    color: #009900;
+}
+
+.feedback-container {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
